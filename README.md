@@ -7,6 +7,6 @@ There are three options available for implementing the logic:
 
 As always the simplest option wins. so, I used the first method because the project is small and the logic isn't very complicated. But for the bigger and more complex rules other options might be better. 
 
-The cities' data are read from the CSV file which is also a simple and maintainable option.
+Reading cities' data from the CSV file which is also a simple and maintainable option.
 
 I've also used a simplified clean architecture for the project.
